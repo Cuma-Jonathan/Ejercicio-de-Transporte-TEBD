@@ -1,2 +1,2 @@
 # Ejercicio-de-Transporte-TEBD
-El ejercicio de transporte se centra en la descarga de archivos PDF 
+El ejercicio de transporte se centra en la descarga de archivos PDF y en la extracción de datos específicos. Los datos se obbtuvieron de: Transportation Energy Data Book (TEDB), el cual es un recurso elaborado por Oak Ridge National Repository que contiene informaci´on de transporte para Estados Unidos).  El objetivo del ejercicio es descargar varios archivos PDF correspondiente a la edición 28 a la 40 y de ahí extraer información del Consumo doméstico de energía de transporte por modo y tipo de producto.
